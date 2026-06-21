@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AI Chess",
+  "description": "A full-featured chess game with Gemini AI integration, adjustable difficulty levels, AI vs AI mode, and real-time online multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
